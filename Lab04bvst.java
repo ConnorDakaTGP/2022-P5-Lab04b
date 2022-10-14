@@ -44,12 +44,7 @@ public class Lab04bvst extends Applet
         g.drawOval(400,75,250,200);
         g.drawOval(400,50,250,250);
 
-        //Outer ring
-
-        //Triangle
-
-        //Inner ring
-
+        //I cant figure out how to do the inscribed circumscribed triangle
 
         //A
         g.fillRect(25,475,25,125);
@@ -77,7 +72,6 @@ public class Lab04bvst extends Applet
         g.fillArc(550,425,75,75,-135,270);
         g.fillArc(600,475,75,75,-45,270);
         g.fillArc(650,425,75,75,45,270);
-
     }
 
 }
